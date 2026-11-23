@@ -1,5 +1,7 @@
 # Find Your Career MCP
 
+[![Find Your Career MCP connector](https://glama.ai/mcp/connectors/io.findyourcareer/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.findyourcareer/jobs)
+
 The official MCP server of [Find Your Career](https://findyourcareer.io), a job board that collects openings straight from employer career pages. Connect it to Claude, ChatGPT, Cursor or any other MCP client and search current jobs in conversation.
 
 The server is hosted. There is nothing to install and no API key to copy.
