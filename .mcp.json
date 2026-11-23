@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findyourcareer": {
+      "type": "http",
+      "url": "https://findyourcareer.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "findyourcareer",
+  "version": "1.0.0",
+  "description": "Search current job openings by role, country, remote and visa sponsorship, and read full job details, through your Find Your Career account.",
+  "author": {
+    "name": "VNDCK Consulting BV",
+    "url": "https://findyourcareer.io"
+  },
+  "homepage": "https://findyourcareer.io/integrations/mcp",
+  "repository": "https://github.com/VNDCK/FindYourCareer-MCP",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "remote-jobs", "visa-sponsorship", "career"],
+  "mcpServers": "./.mcp.json",
+  "category": "productivity",
+  "tags": ["jobs", "job-search", "mcp"]
+}

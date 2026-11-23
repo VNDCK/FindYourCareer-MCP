@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.findyourcareer/jobs",
+  "title": "Find Your Career",
+  "description": "Search current job openings by role, country, remote and visa sponsorship; read full job details.",
+  "websiteUrl": "https://findyourcareer.io",
+  "version": "1.0.1",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://findyourcareer.io/mcp"
+    }
+  ]
+}
