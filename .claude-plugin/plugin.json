@@ -19,5 +19,8 @@
     "career"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://findyourcareer.io/legal/privacy-policy"
+  "privacyPolicyUrl": "https://findyourcareer.io/legal/privacy-policy",
+  "supportUrl": "https://findyourcareer.io/about",
+  "documentationUrl": "https://findyourcareer.io/integrations/mcp",
+  "termsOfServiceUrl": "https://findyourcareer.io/legal/terms-of-service"
 }
