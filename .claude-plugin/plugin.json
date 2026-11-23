@@ -11,5 +11,13 @@
   "homepage": "https://findyourcareer.io/integrations/mcp",
   "repository": "https://github.com/VNDCK/FindYourCareer-MCP",
   "license": "MIT",
-  "keywords": ["jobs", "job-search", "remote-jobs", "visa-sponsorship", "career"]
+  "keywords": [
+    "jobs",
+    "job-search",
+    "remote-jobs",
+    "visa-sponsorship",
+    "career"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://findyourcareer.io/legal/privacy-policy"
 }
